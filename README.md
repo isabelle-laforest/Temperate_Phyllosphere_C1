@@ -1,2 +1,5 @@
 # Temperate_Phyllosphere_C1
-Code for the first chapter of Ph.D. on Temperate Forest Phyllosphere
+
+Hi,
+
+This repository contains the code for the first chapter of my Ph.D. on Temperate Forest Phyllosphere.
